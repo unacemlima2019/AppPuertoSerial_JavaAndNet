@@ -1,0 +1,11 @@
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\bin\Debug\ProyectoA.exe.config
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\bin\Debug\ProyectoA.exe
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\bin\Debug\ProyectoA.pdb
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\obj\Debug\ProyectoA.csproj.AssemblyReference.cache
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\obj\Debug\ProyectoA.csproj.SuggestedBindingRedirects.cache
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\obj\Debug\ProyectoA.Form1.resources
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\obj\Debug\ProyectoA.Properties.Resources.resources
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\obj\Debug\ProyectoA.csproj.GenerateResource.cache
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\obj\Debug\ProyectoA.csproj.CoreCompileInputs.cache
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\obj\Debug\ProyectoA.exe
+E:\Proyecto_Cshart\ProyectoA\ProyectoA\obj\Debug\ProyectoA.pdb
